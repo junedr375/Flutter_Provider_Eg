@@ -1,16 +1,6 @@
 # providereg
 
-A new Flutter project.
+I have implemeted simple cart in this project. From Add Item page user can add cart Item and it will reflect in Home screen.
+Also imlemented Theme changing logic.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Video 2021-03-22 at 09 40 06](https://user-images.githubusercontent.com/49837673/111941694-99fd4680-8af7-11eb-999c-b6ef4711f028.gif)
