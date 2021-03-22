@@ -70,7 +70,7 @@ class AddItemWidget extends StatelessWidget {
                     ),
                     TextFormField(
                       controller: addressController,
-                      keyboardType: TextInputType.number,
+                      keyboardType: TextInputType.name,
                       cursorColor: Colors.black,
                       style: TextStyle(
                           fontSize: 18,

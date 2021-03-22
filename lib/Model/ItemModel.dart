@@ -10,16 +10,6 @@ class Item {
   Item({this.id, this.name, this.address, this.size, this.quantity});
 }
 
-class AddItemAction {
-  final Item item;
-  AddItemAction({this.item});
-}
-
-class RemoveItemAction {
-  final Item item;
-  RemoveItemAction({this.item});
-}
-
 class CartItemListProvider extends ChangeNotifier {
   List<Item> cartItemList = [];
 
